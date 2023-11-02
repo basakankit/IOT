@@ -4,8 +4,8 @@
 #include <WiFiClient.h>
 
 WiFiClient wifiClient;
-const char* ssid = "IOT_DEVICES";
-const char* password = "iot_lab_devices";
+const char* ssid = "XXX";
+const char* password = "XXX";
 
 void setup() {
   Serial.begin(115200);
